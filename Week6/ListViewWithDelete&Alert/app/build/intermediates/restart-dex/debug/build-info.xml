@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="705805766475078"
+    token="-90682311595645965"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2315" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="967" />
+    <task
+        name="verifier"
+        duration="97" />
+
+    <artifact
+        location="/Users/billywu/Desktop/Android/Week6/ListViewWithDelete&amp;amp;Alert/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="705805766475078"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/billywu/Desktop/Android/Week6/ListViewWithDelete&amp;amp;Alert/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

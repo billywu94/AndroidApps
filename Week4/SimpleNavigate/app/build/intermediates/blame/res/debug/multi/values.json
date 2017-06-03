@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 59,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 52,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 52,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 58,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 58,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 43,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 43,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 43,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 43,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 52,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 52,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 61,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 61,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 52,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 63,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 63,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 60,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 60,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 60,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 60,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

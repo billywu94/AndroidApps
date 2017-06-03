@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/opo.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/opo.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/c.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/c.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/gala.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/gala.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/andico.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/andico.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/star.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/star.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/b.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/b.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/duos.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/duos.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/drawable-mdpi/a.png",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/drawable-mdpi/a.png"
+    }
+]

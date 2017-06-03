@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/menu/web.xml",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/menu/web.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/menu/product.xml",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/menu/product.xml"
+    }
+]

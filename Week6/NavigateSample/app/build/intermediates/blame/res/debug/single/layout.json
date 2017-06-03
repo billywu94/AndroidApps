@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/layout/row_layout.xml",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/layout/row_layout.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/res/merged/debug/layout/activity_web.xml",
+        "source": "/Users/billywu/Desktop/Android/Week6/NavigateSample/app/src/main/res/layout/activity_web.xml"
+    }
+]

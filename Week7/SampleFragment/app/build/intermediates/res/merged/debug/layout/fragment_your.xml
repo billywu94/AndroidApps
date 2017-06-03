@@ -1,0 +1,18 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.turntotech.samplefragment.YourFragment"
+    android:background="#88f012">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!-- 3/21/17 -->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment"
+        android:textStyle="bold" />
+
+</FrameLayout>

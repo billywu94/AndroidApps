@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3309d4c9720da3f950f8efe69757ccd95cfd2ae7">
+        <dex dex="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1be3ab6a308bab4bdfb3d53d9ea5a282b10696a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/billywu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_9f6fea206fdd14131697958b2907e357fec38f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/billywu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_9f6fea206fdd14131697958b2907e357fec38f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="171729e0b66ada0a50d94b9a07417ea3d3256a72">
+        <dex dex="/Users/billywu/Desktop/Android/Week4/DynamicTableView/app/build/intermediates/pre-dexed/debug/instant-run_8920679e947ccb3aa96a4602137bd56796213a04.jar" />
+    </item>
+
+</items>

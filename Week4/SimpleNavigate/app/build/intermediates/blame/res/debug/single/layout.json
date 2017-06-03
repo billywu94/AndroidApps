@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/build/intermediates/res/merged/debug/layout/activity_last.xml",
+        "source": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/layout/activity_last.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/build/intermediates/res/merged/debug/layout/activity_other.xml",
+        "source": "/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/src/main/res/layout/activity_other.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week9/SimpleIntentService/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/billywu/Desktop/Android/Week9/SimpleIntentService/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week9/SimpleBackgroundService/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/billywu/Desktop/Android/Week9/SimpleBackgroundService/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

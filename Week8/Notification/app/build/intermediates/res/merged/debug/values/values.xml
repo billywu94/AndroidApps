@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Notification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notification">This app was opened from a notification</string>
+    <string name="notify">Notify</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

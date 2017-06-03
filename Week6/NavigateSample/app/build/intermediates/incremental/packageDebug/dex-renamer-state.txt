@@ -1,0 +1,4 @@
+#Sat Mar 18 00:57:02 EDT 2017
+base.0=/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week9/SimpleIntentService/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/billywu/Desktop/Android/Week9/SimpleIntentService/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/billywu/Desktop/Android/Week9/SimpleBackgroundService/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/billywu/Desktop/Android/Week9/SimpleBackgroundService/app/src/main/res/layout/activity_main.xml"
+    }
+]

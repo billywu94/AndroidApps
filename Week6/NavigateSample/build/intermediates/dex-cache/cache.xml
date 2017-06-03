@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/billywu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/billywu/Desktop/Android/Week6/NavigateSample/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_9f6fea206fdd14131697958b2907e357fec38f68.jar" />
+    </item>
+
+</items>

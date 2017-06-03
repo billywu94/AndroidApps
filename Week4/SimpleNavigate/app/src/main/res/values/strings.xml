@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Navigate</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_other">Second Page</string>
+    <string name="btn_main">Second</string>
+    <string name="btn_other">First</string>
+    <string name="button_back_to_main">Main</string>
+    <string name="btn_link_to_last">activity_last</string>
+    <string name="first_page">This is the first page</string>
+    <string name="second_page">This is the second page</string>
+    <string name="Last_page">This is the last page</string>
+    <string name="title_activity_last">LastActivity</string>
+</resources>

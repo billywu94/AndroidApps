@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Mar 20 17:15:27 EDT 2017
+2.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_your.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_one.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_two.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+7.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/Users/billywu/Desktop/Android/Week7/SampleFragment/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

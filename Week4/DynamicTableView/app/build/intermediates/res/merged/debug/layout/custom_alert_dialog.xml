@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--@author: Billy Wu
+ Creation Date: 3/4/17
+ Sources: http://stackoverflow.com/questions/14834685/android-alertdialog-setview-rules
+ https://coderanch.com/t/626194/textview-tablerow-android
+
+ This XML file is no longer in use
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TableLayout
+        android:id="@+id/alertTable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingBottom="10dp">
+        <TableRow
+            android:id="@+id/row1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/row2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/text2"
+                android:paddingLeft="5dp"
+                android:text="Last Name: " />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/row3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/text3"
+                android:paddingLeft="5dp"
+                android:text="Age: "/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/row4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/text4"
+                android:paddingLeft="5dp"
+                android:text="Street Address: "/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/row5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/text5"
+                android:paddingLeft="5dp"
+                android:text="City, State, ZIP: "/>
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

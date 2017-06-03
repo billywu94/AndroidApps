@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="706976108775363"
+    token="-8958505423599581668" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="706719691947694"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/billywu/Desktop/Android/Week4/SimpleNavigate/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="706976108775363" />
+
+</instant-run>
